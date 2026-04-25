@@ -1,0 +1,501 @@
+transaction_id,transaction_date,client_id,category,payment_method,status,amount
+3670,2025-11-22,Client_1020,E-commerce,Debit Card,Completed,1461.92
+12468,2026-03-30,Client_1006,Consulting,E-Wallet,Completed,9418.86
+12496,2026-03-31,Client_1020,E-commerce,Credit Card,Completed,1469.76
+3782,2025-11-23,Client_1001,Hardware,E-Wallet,Completed,6155.62
+15208,2026-03-15,Client_1004,E-commerce,Credit Card,Completed,1140.28
+12326,2026-03-28,Client_1008,Hardware,Credit Card,Completed,5337.86
+8882,2026-02-06,Client_1008,SaaS Subscription,Debit Card,Completed,3174.36
+11525,2026-03-16,Client_1019,SaaS Subscription,Debit Card,Completed,2378.25
+1607,2025-10-23,Client_1015,Cloud Hosting,Bank Transfer,Failed,7072.68
+10448,2026-03-01,Client_1010,SaaS Subscription,Credit Card,Refunded,2787.62
+11718,2026-03-19,Client_1015,Cloud Hosting,Debit Card,Completed,3311.5
+9521,2026-02-15,Client_1010,Hardware,Bank Transfer,Completed,5505.8
+567,2025-10-09,Client_1020,Consulting,Bank Transfer,Failed,14819.54
+6245,2025-12-30,Client_1008,Hardware,Debit Card,Completed,6228.94
+3215,2025-11-16,Client_1019,E-commerce,Credit Card,Failed,1234.81
+13312,2026-04-10,Client_1004,E-commerce,E-Wallet,Completed,644.15
+6067,2025-12-27,Client_1005,SaaS Subscription,Bank Transfer,Completed,2492.58
+8984,2026-02-08,Client_1009,Hardware,E-Wallet,Completed,7748.55
+4337,2025-12-01,Client_1009,Hardware,Credit Card,Completed,8771.42
+9186,2026-02-10,Client_1019,SaaS Subscription,Debit Card,Failed,2645.02
+15247,2026-03-15,Client_1004,E-commerce,E-Wallet,Completed,1646.1
+11647,2026-03-18,Client_1013,Hardware,Debit Card,Completed,9105.05
+12319,2026-03-28,Client_1016,SaaS Subscription,Debit Card,Completed,2996.26
+9550,2026-02-16,Client_1004,Consulting,Credit Card,Refunded,9881.51
+9921,2026-02-21,Client_1001,Cloud Hosting,Debit Card,Completed,6902.54
+8212,2026-01-27,Client_1010,SaaS Subscription,Bank Transfer,Completed,2137.65
+477,2025-10-07,Client_1020,Hardware,Debit Card,Completed,9968.64
+8731,2026-02-04,Client_1002,SaaS Subscription,Bank Transfer,Completed,1556.75
+5937,2025-12-25,Client_1017,E-commerce,E-Wallet,Completed,1566.51
+10441,2026-03-01,Client_1001,Cloud Hosting,Bank Transfer,Failed,5626.13
+4099,2025-11-28,Client_1011,SaaS Subscription,Credit Card,Failed,3285.27
+4076,2025-11-27,Client_1018,Consulting,Debit Card,Failed,11798.31
+9684,2026-02-17,Client_1007,Hardware,E-Wallet,Completed,7773.66
+6844,2026-01-07,Client_1010,Hardware,Credit Card,Completed,9404.31
+151,2025-10-02,Client_1014,Hardware,E-Wallet,Completed,7050.11
+9759,2026-02-19,Client_1007,SaaS Subscription,Credit Card,Completed,1641.58
+352,2025-10-05,Client_1019,E-commerce,Bank Transfer,Completed,1406.81
+14334,2026-04-25,Client_1007,E-commerce,Bank Transfer,Completed,1506.12
+4154,2025-11-28,Client_1009,SaaS Subscription,Bank Transfer,Completed,2031.12
+4591,2025-12-04,Client_1008,Consulting,Debit Card,Completed,11994.51
+3992,2025-11-26,Client_1009,SaaS Subscription,Bank Transfer,Completed,1375.07
+6464,2026-01-02,Client_1008,Cloud Hosting,Credit Card,Completed,4598.14
+14546,2026-04-27,Client_1004,Cloud Hosting,E-Wallet,Completed,5006.34
+14896,2026-03-15,Client_1004,E-commerce,E-Wallet,Completed,960.01
+11756,2026-03-19,Client_1018,SaaS Subscription,Debit Card,Completed,1407.24
+14307,2026-04-24,Client_1019,E-commerce,Debit Card,Completed,1128.03
+7613,2026-01-19,Client_1010,Consulting,Bank Transfer,Completed,18538.04
+5095,2025-12-11,Client_1018,SaaS Subscription,E-Wallet,Completed,3451.18
+4193,2025-11-29,Client_1019,Hardware,Debit Card,Failed,7279.45
+10710,2026-03-04,Client_1009,E-commerce,Debit Card,Completed,1310.26
+8898,2026-02-06,Client_1003,SaaS Subscription,Debit Card,Completed,3051.94
+3823,2025-11-24,Client_1005,Hardware,E-Wallet,Completed,7545.52
+8122,2026-01-26,Client_1014,Hardware,Bank Transfer,Completed,8881.64
+3964,2025-11-26,Client_1015,Consulting,Debit Card,Completed,10422.35
+3648,2025-11-22,Client_1007,Consulting,Credit Card,Completed,13734.83
+1036,2025-10-16,Client_1008,E-commerce,Bank Transfer,Failed,983.05
+6577,2026-01-03,Client_1018,Hardware,Credit Card,Completed,6592.9
+2520,2025-11-06,Client_1002,Cloud Hosting,Bank Transfer,Completed,7516.07
+5956,2025-12-25,Client_1005,Consulting,Bank Transfer,Completed,14257.92
+6210,2025-12-29,Client_1012,Hardware,Bank Transfer,Completed,8105.92
+7793,2026-01-21,Client_1019,Cloud Hosting,Credit Card,Failed,5138.75
+13323,2026-04-10,Client_1005,E-commerce,E-Wallet,Completed,1993.18
+8026,2026-01-24,Client_1006,Cloud Hosting,Debit Card,Completed,3054.63
+12580,2026-03-31,Client_1003,E-commerce,E-Wallet,Completed,1748.95
+8531,2026-02-01,Client_1015,E-commerce,Debit Card,Failed,1047.14
+10651,2026-03-04,Client_1011,Cloud Hosting,E-Wallet,Completed,6300.22
+3308,2025-11-17,Client_1005,Cloud Hosting,Debit Card,Completed,8056.79
+2407,2025-11-05,Client_1010,E-commerce,Credit Card,Completed,973.4
+837,2025-10-13,Client_1015,Consulting,Bank Transfer,Refunded,8411.71
+2335,2025-11-04,Client_1004,Cloud Hosting,Debit Card,Completed,2029.77
+11573,2026-03-17,Client_1001,Hardware,Debit Card,Completed,4072.8
+15133,2026-03-15,Client_1004,E-commerce,E-Wallet,Completed,896.3
+6014,2025-12-26,Client_1020,Consulting,Debit Card,Completed,9818.96
+2544,2025-11-07,Client_1006,Cloud Hosting,Debit Card,Refunded,6799.81
+14757,2026-04-30,Client_1001,SaaS Subscription,E-Wallet,Completed,3174.28
+13870,2026-04-17,Client_1008,Consulting,E-Wallet,Completed,16122.17
+11645,2026-03-18,Client_1015,Cloud Hosting,Credit Card,Completed,6809.74
+2082,2025-11-01,Client_1015,E-commerce,Debit Card,Completed,1183.62
+2715,2025-11-09,Client_1001,E-commerce,Bank Transfer,Refunded,1547.51
+3951,2025-11-26,Client_1003,Consulting,Debit Card,Completed,9887.76
+6128,2025-12-28,Client_1019,Consulting,Debit Card,Completed,8642.51
+7628,2026-01-19,Client_1005,Consulting,Credit Card,Completed,7224.53
+737,2025-10-11,Client_1014,E-commerce,Credit Card,Completed,1105.37
+12029,2026-03-24,Client_1016,Consulting,E-Wallet,Completed,12182.21
+7636,2026-01-19,Client_1001,Consulting,Bank Transfer,Completed,13532.4
+13092,2026-04-07,Client_1010,E-commerce,E-Wallet,Completed,932.25
+12823,2026-04-04,Client_1020,Hardware,E-Wallet,Completed,6868.37
+9237,2026-02-11,Client_1005,SaaS Subscription,E-Wallet,Refunded,2686.09
+1494,2025-10-22,Client_1017,E-commerce,Bank Transfer,Completed,1008.27
+13454,2026-04-12,Client_1010,SaaS Subscription,Credit Card,Completed,2882.77
+13383,2026-04-11,Client_1005,E-commerce,E-Wallet,Completed,835.7
+6736,2026-01-06,Client_1002,Hardware,Debit Card,Completed,6573.38
+9374,2026-02-13,Client_1013,Consulting,Bank Transfer,Completed,8209.79
+9253,2026-02-11,Client_1018,E-commerce,E-Wallet,Completed,729.68
+2500,2025-11-06,Client_1007,Consulting,Debit Card,Completed,17548.09
+7795,2026-01-21,Client_1016,SaaS Subscription,Debit Card,Completed,2616.5
+4689,2025-12-06,Client_1001,E-commerce,Debit Card,Completed,1427.46
+7564,2026-01-18,Client_1017,E-commerce,E-Wallet,Completed,1159.45
+6665,2026-01-04,Client_1014,E-commerce,Debit Card,Completed,1365.71
+11144,2026-03-11,Client_1009,SaaS Subscription,Debit Card,Completed,3059.03
+6890,2026-01-08,Client_1002,Hardware,E-Wallet,Completed,11442.34
+6052,2025-12-26,Client_1018,Consulting,Bank Transfer,Completed,10752.01
+14596,2026-04-28,Client_1008,Consulting,E-Wallet,Completed,15026.66
+11035,2026-03-09,Client_1008,Hardware,Credit Card,Completed,6577.57
+89,2025-10-02,Client_1006,SaaS Subscription,Credit Card,Completed,1535.51
+4437,2025-12-03,Client_1011,E-commerce,E-Wallet,Refunded,1779.27
+7503,2026-01-17,Client_1009,Cloud Hosting,E-Wallet,Completed,1942.33
+4862,2025-12-08,Client_1012,SaaS Subscription,Bank Transfer,Completed,2428.95
+252,2025-10-04,Client_1019,SaaS Subscription,Bank Transfer,Completed,3430.76
+3064,2025-11-14,Client_1012,Cloud Hosting,Bank Transfer,Completed,5539.3
+14909,2026-03-15,Client_1004,E-commerce,Credit Card,Completed,1530.26
+5720,2025-12-22,Client_1018,Cloud Hosting,Bank Transfer,Failed,2591.31
+6909,2026-01-09,Client_1008,SaaS Subscription,Bank Transfer,Completed,2086.64
+11264,2026-03-12,Client_1010,Consulting,Bank Transfer,Completed,10011.16
+1954,2025-10-30,Client_1006,E-commerce,Credit Card,Completed,357.74
+10626,2026-03-03,Client_1005,E-commerce,Bank Transfer,Completed,993.75
+8367,2026-01-30,Client_1007,E-commerce,Debit Card,Completed,694.79
+7977,2026-01-24,Client_1018,Cloud Hosting,E-Wallet,Completed,5040.77
+3046,2025-11-14,Client_1014,Cloud Hosting,Bank Transfer,Failed,3119.29
+2761,2025-11-09,Client_1014,Hardware,Debit Card,Completed,6963.49
+6211,2025-12-29,Client_1007,Consulting,Credit Card,Completed,13462.57
+6166,2025-12-28,Client_1019,Consulting,E-Wallet,Completed,15673.95
+3614,2025-11-21,Client_1019,Consulting,Bank Transfer,Completed,8950.43
+9038,2026-02-08,Client_1019,Hardware,Bank Transfer,Completed,8604.15
+1741,2025-10-26,Client_1004,Hardware,E-Wallet,Failed,8675.87
+11768,2026-03-19,Client_1007,Cloud Hosting,E-Wallet,Completed,4378.82
+3679,2025-11-22,Client_1007,Cloud Hosting,Bank Transfer,Failed,3456.64
+10309,2026-02-27,Client_1002,Cloud Hosting,Bank Transfer,Completed,2648.34
+4875,2025-12-08,Client_1016,E-commerce,Credit Card,Completed,1584.72
+4660,2025-12-06,Client_1012,Consulting,Bank Transfer,Completed,17734.82
+15207,2026-03-15,Client_1004,E-commerce,E-Wallet,Completed,2056.84
+6113,2025-12-27,Client_1015,Consulting,Debit Card,Completed,14063.71
+380,2025-10-05,Client_1002,Consulting,E-Wallet,Completed,8646.16
+1660,2025-10-24,Client_1001,Hardware,E-Wallet,Failed,5690.61
+13852,2026-04-17,Client_1019,E-commerce,Bank Transfer,Failed,785.55
+14126,2026-04-21,Client_1008,Cloud Hosting,Debit Card,Completed,4015.68
+938,2025-10-15,Client_1018,E-commerce,Credit Card,Completed,917.08
+3194,2025-11-15,Client_1019,Hardware,Bank Transfer,Completed,9592.27
+3015,2025-11-13,Client_1002,Cloud Hosting,Bank Transfer,Completed,2002.64
+5291,2025-12-14,Client_1015,Consulting,Debit Card,Completed,13311.51
+6418,2026-01-01,Client_1015,SaaS Subscription,E-Wallet,Completed,2892.69
+3998,2025-11-26,Client_1004,Hardware,E-Wallet,Completed,8925.92
+8268,2026-01-28,Client_1013,Consulting,E-Wallet,Completed,13769.75
+2875,2025-11-11,Client_1010,Consulting,Debit Card,Completed,16892.2
+4872,2025-12-08,Client_1003,Consulting,E-Wallet,Completed,9357.72
+8522,2026-02-01,Client_1014,Hardware,Bank Transfer,Completed,7922.35
+6923,2026-01-09,Client_1018,E-commerce,Debit Card,Completed,1089.62
+12267,2026-03-27,Client_1018,SaaS Subscription,Bank Transfer,Completed,2635.11
+2406,2025-11-05,Client_1016,SaaS Subscription,Bank Transfer,Completed,3223.06
+8982,2026-02-08,Client_1014,E-commerce,Credit Card,Completed,498.37
+3636,2025-11-22,Client_1006,Cloud Hosting,Debit Card,Completed,3995.12
+8518,2026-02-01,Client_1009,Cloud Hosting,Credit Card,Completed,6042.22
+5427,2025-12-17,Client_1016,E-commerce,Credit Card,Completed,1081.53
+9595,2026-02-16,Client_1020,E-commerce,Debit Card,Completed,1001.64
+6832,2026-01-07,Client_1001,Cloud Hosting,E-Wallet,Completed,4730.23
+13698,2026-04-15,Client_1005,Consulting,E-Wallet,Completed,15762.21
+8458,2026-01-31,Client_1012,Hardware,Bank Transfer,Completed,5767.59
+11031,2026-03-09,Client_1002,Consulting,Debit Card,Completed,13832.54
+2309,2025-11-04,Client_1007,Hardware,Credit Card,Completed,5774.74
+14426,2026-04-26,Client_1015,Cloud Hosting,Credit Card,Completed,5316.33
+1715,2025-10-26,Client_1018,E-commerce,Debit Card,Completed,1230.37
+9624,2026-02-16,Client_1016,Cloud Hosting,Bank Transfer,Failed,8648.04
+48,2025-10-01,Client_1001,SaaS Subscription,E-Wallet,Completed,1920.67
+7966,2026-01-24,Client_1004,Consulting,E-Wallet,Completed,15835.46
+9470,2026-02-14,Client_1012,Hardware,Debit Card,Completed,10863.5
+9514,2026-02-15,Client_1003,SaaS Subscription,Bank Transfer,Completed,2568.17
+1806,2025-10-27,Client_1002,Consulting,Credit Card,Completed,9827.26
+765,2025-10-12,Client_1014,Hardware,Debit Card,Completed,2223.46
+10851,2026-03-06,Client_1016,SaaS Subscription,E-Wallet,Completed,2566.69
+8247,2026-01-28,Client_1019,SaaS Subscription,E-Wallet,Completed,2692.0
+8178,2026-01-27,Client_1013,SaaS Subscription,Credit Card,Completed,1419.11
+4765,2025-12-07,Client_1013,Cloud Hosting,E-Wallet,Completed,5884.58
+8523,2026-02-01,Client_1014,Consulting,E-Wallet,Completed,14889.33
+1347,2025-10-20,Client_1004,Cloud Hosting,Credit Card,Completed,5582.26
+6339,2025-12-31,Client_1011,Consulting,Bank Transfer,Completed,13897.04
+3888,2025-11-24,Client_1009,Hardware,Bank Transfer,Completed,9925.42
+14055,2026-04-20,Client_1013,Cloud Hosting,Credit Card,Completed,3290.15
+12487,2026-03-30,Client_1012,Cloud Hosting,E-Wallet,Completed,5712.19
+11439,2026-03-15,Client_1014,Hardware,E-Wallet,Completed,6584.32
+9700,2026-02-18,Client_1010,Cloud Hosting,Credit Card,Completed,4403.9
+4683,2025-12-06,Client_1008,E-commerce,Credit Card,Completed,2077.38
+13549,2026-04-13,Client_1013,SaaS Subscription,Debit Card,Completed,3023.75
+340,2025-10-05,Client_1019,E-commerce,Debit Card,Completed,1187.07
+9459,2026-02-14,Client_1007,Consulting,Credit Card,Completed,10380.82
+9241,2026-02-11,Client_1003,Cloud Hosting,Debit Card,Completed,4676.78
+9657,2026-02-17,Client_1014,E-commerce,Credit Card,Completed,929.98
+6073,2025-12-27,Client_1015,SaaS Subscription,Debit Card,Completed,2913.23
+12284,2026-03-27,Client_1006,SaaS Subscription,Bank Transfer,Completed,1832.1
+11846,2026-03-21,Client_1005,Hardware,E-Wallet,Completed,9546.92
+2311,2025-11-04,Client_1004,Cloud Hosting,Credit Card,Completed,3676.31
+2936,2025-11-12,Client_1013,Hardware,Bank Transfer,Failed,5842.97
+1124,2025-10-17,Client_1019,SaaS Subscription,E-Wallet,Completed,3017.44
+9213,2026-02-10,Client_1010,Hardware,E-Wallet,Completed,9900.46
+14345,2026-04-25,Client_1018,Hardware,Credit Card,Failed,8957.43
+11841,2026-03-21,Client_1008,SaaS Subscription,Debit Card,Completed,2435.6
+1767,2025-10-26,Client_1019,Consulting,Credit Card,Completed,19287.43
+14917,2026-03-15,Client_1004,E-commerce,Debit Card,Completed,2023.5
+3419,2025-11-19,Client_1018,E-commerce,E-Wallet,Completed,520.69
+6346,2025-12-31,Client_1019,Consulting,Bank Transfer,Completed,12129.36
+11196,2026-03-11,Client_1011,E-commerce,E-Wallet,Failed,1158.44
+8205,2026-01-27,Client_1007,SaaS Subscription,Credit Card,Completed,3153.86
+6742,2026-01-06,Client_1004,Cloud Hosting,Debit Card,Completed,5493.34
+10863,2026-03-07,Client_1004,Consulting,E-Wallet,Completed,12158.44
+3754,2025-11-23,Client_1003,SaaS Subscription,E-Wallet,Completed,2078.25
+7282,2026-01-14,Client_1018,Hardware,Debit Card,Completed,9524.06
+9144,2026-02-09,Client_1017,Consulting,Debit Card,Failed,8456.83
+12032,2026-03-24,Client_1020,Cloud Hosting,Bank Transfer,Completed,4387.49
+12390,2026-03-29,Client_1015,Cloud Hosting,Credit Card,Completed,4388.44
+13740,2026-04-16,Client_1006,Cloud Hosting,Debit Card,Completed,3111.89
+9644,2026-02-17,Client_1003,E-commerce,E-Wallet,Completed,963.34
+3170,2025-11-15,Client_1018,Consulting,E-Wallet,Completed,15536.39
+5640,2025-12-21,Client_1013,Cloud Hosting,Credit Card,Completed,4022.88
+8201,2026-01-27,Client_1014,Consulting,Credit Card,Completed,10629.41
+10530,2026-03-02,Client_1001,SaaS Subscription,Bank Transfer,Completed,2026.41
+6757,2026-01-06,Client_1006,Hardware,E-Wallet,Completed,8588.03
+412,2025-10-06,Client_1009,E-commerce,Bank Transfer,Completed,1187.62
+12732,2026-04-02,Client_1008,Hardware,Debit Card,Completed,6302.93
+6282,2025-12-30,Client_1002,SaaS Subscription,Credit Card,Failed,1025.74
+13900,2026-04-18,Client_1004,Consulting,Debit Card,Failed,8254.84
+2496,2025-11-06,Client_1020,Consulting,Bank Transfer,Completed,12866.18
+3166,2025-11-15,Client_1001,Consulting,Debit Card,Completed,11747.61
+11547,2026-03-16,Client_1016,SaaS Subscription,Credit Card,Completed,2131.28
+10733,2026-03-05,Client_1001,Consulting,Bank Transfer,Completed,6254.86
+8483,2026-01-31,Client_1005,Hardware,Credit Card,Completed,3805.25
+12581,2026-04-01,Client_1016,Cloud Hosting,Credit Card,Failed,5448.5
+10885,2026-03-07,Client_1013,Hardware,Credit Card,Completed,9637.07
+7891,2026-01-23,Client_1002,Hardware,Bank Transfer,Completed,9254.67
+9631,2026-02-17,Client_1014,E-commerce,Bank Transfer,Completed,2193.66
+1088,2025-10-17,Client_1013,Consulting,Credit Card,Completed,13502.53
+10199,2026-02-26,Client_1010,Cloud Hosting,E-Wallet,Completed,5498.06
+10021,2026-02-22,Client_1005,Cloud Hosting,Credit Card,Completed,7506.06
+4049,2025-11-27,Client_1003,SaaS Subscription,Credit Card,Completed,2647.07
+4221,2025-11-30,Client_1008,Hardware,Bank Transfer,Completed,9888.42
+2155,2025-11-02,Client_1006,Cloud Hosting,Credit Card,Completed,5446.41
+2895,2025-11-11,Client_1018,E-commerce,Credit Card,Failed,1452.69
+10502,2026-03-02,Client_1015,SaaS Subscription,Debit Card,Completed,2007.6
+14637,2026-04-28,Client_1020,Hardware,Bank Transfer,Completed,6788.45
+9530,2026-02-15,Client_1018,E-commerce,E-Wallet,Completed,1298.83
+6235,2025-12-30,Client_1010,Hardware,Debit Card,Completed,6716.28
+2615,2025-11-08,Client_1005,Cloud Hosting,Bank Transfer,Failed,3019.71
+3602,2025-11-21,Client_1001,E-commerce,Bank Transfer,Completed,917.65
+4404,2025-12-02,Client_1016,SaaS Subscription,E-Wallet,Failed,1848.04
+14354,2026-04-25,Client_1006,Consulting,Bank Transfer,Completed,10625.41
+13045,2026-04-07,Client_1004,E-commerce,E-Wallet,Completed,803.77
+14956,2026-03-15,Client_1004,E-commerce,Credit Card,Completed,2024.41
+11214,2026-03-12,Client_1017,E-commerce,E-Wallet,Completed,1284.6
+12728,2026-04-02,Client_1006,SaaS Subscription,Debit Card,Completed,2885.14
+2547,2025-11-07,Client_1010,Cloud Hosting,Credit Card,Completed,5190.64
+512,2025-10-08,Client_1015,E-commerce,Debit Card,Failed,1392.22
+11720,2026-03-19,Client_1002,E-commerce,Debit Card,Completed,642.78
+11497,2026-03-15,Client_1020,Hardware,Bank Transfer,Completed,9267.18
+14712,2026-04-29,Client_1016,SaaS Subscription,Credit Card,Completed,2096.9
+8702,2026-02-04,Client_1008,E-commerce,Bank Transfer,Completed,1178.06
+13877,2026-04-18,Client_1018,SaaS Subscription,E-Wallet,Completed,2254.94
+8015,2026-01-24,Client_1016,Cloud Hosting,E-Wallet,Completed,4841.71
+2907,2025-11-12,Client_1010,SaaS Subscription,Debit Card,Completed,2389.51
+13257,2026-04-09,Client_1003,E-commerce,E-Wallet,Completed,1511.12
+4975,2025-12-10,Client_1005,Hardware,Credit Card,Completed,6240.71
+6867,2026-01-08,Client_1005,Hardware,Bank Transfer,Completed,10221.03
+3388,2025-11-18,Client_1014,Hardware,E-Wallet,Completed,7417.02
+11361,2026-03-14,Client_1020,Hardware,E-Wallet,Completed,9945.73
+7473,2026-01-17,Client_1006,Cloud Hosting,E-Wallet,Completed,4478.02
+2914,2025-11-12,Client_1013,Cloud Hosting,Debit Card,Completed,3307.91
+3618,2025-11-21,Client_1013,SaaS Subscription,Credit Card,Completed,2200.23
+5413,2025-12-16,Client_1018,Hardware,Credit Card,Completed,9975.46
+4192,2025-11-29,Client_1001,Consulting,Debit Card,Completed,13045.71
+14687,2026-04-29,Client_1011,SaaS Subscription,Debit Card,Completed,3527.9
+1122,2025-10-17,Client_1004,Hardware,E-Wallet,Completed,8814.1
+885,2025-10-14,Client_1006,Hardware,Credit Card,Failed,7067.93
+2289,2025-11-04,Client_1020,E-commerce,Debit Card,Refunded,551.55
+13976,2026-04-19,Client_1006,SaaS Subscription,E-Wallet,Completed,3020.68
+8547,2026-02-01,Client_1018,Consulting,Debit Card,Completed,11946.77
+4790,2025-12-07,Client_1002,Consulting,Debit Card,Completed,11934.27
+3025,2025-11-13,Client_1013,Cloud Hosting,Debit Card,Completed,6577.24
+4014,2025-11-26,Client_1020,E-commerce,Debit Card,Completed,1032.93
+11051,2026-03-09,Client_1012,Consulting,E-Wallet,Completed,19106.15
+13445,2026-04-12,Client_1008,SaaS Subscription,E-Wallet,Failed,3160.37
+150,2025-10-02,Client_1010,E-commerce,Bank Transfer,Completed,1546.3
+12010,2026-03-23,Client_1006,Hardware,Debit Card,Failed,9518.25
+4722,2025-12-07,Client_1011,SaaS Subscription,Credit Card,Completed,1990.78
+1007,2025-10-16,Client_1002,Consulting,E-Wallet,Completed,16422.17
+15004,2026-03-15,Client_1004,E-commerce,E-Wallet,Completed,1339.99
+9055,2026-02-08,Client_1005,E-commerce,Bank Transfer,Completed,798.72
+7810,2026-01-21,Client_1012,E-commerce,Bank Transfer,Completed,1035.84
+8467,2026-01-31,Client_1015,Hardware,Debit Card,Completed,8278.25
+7018,2026-01-10,Client_1013,E-commerce,Credit Card,Failed,1093.38
+8787,2026-02-05,Client_1005,Hardware,Credit Card,Completed,7551.04
+10131,2026-02-24,Client_1016,SaaS Subscription,Credit Card,Completed,2017.64
+5938,2025-12-25,Client_1018,E-commerce,Debit Card,Completed,2194.41
+3061,2025-11-14,Client_1004,SaaS Subscription,Debit Card,Completed,1711.5
+10712,2026-03-04,Client_1004,SaaS Subscription,Debit Card,Completed,1456.43
+170,2025-10-03,Client_1016,Consulting,E-Wallet,Completed,14778.7
+14875,2026-03-15,Client_1004,E-commerce,Credit Card,Completed,1644.92
+10310,2026-02-27,Client_1016,Hardware,Credit Card,Completed,8201.89
+14215,2026-04-23,Client_1012,Cloud Hosting,Debit Card,Completed,2292.4
+3106,2025-11-14,Client_1013,E-commerce,Bank Transfer,Completed,1244.29
+3291,2025-11-16,Client_1001,SaaS Subscription,E-Wallet,Completed,1947.13
+2560,2025-11-07,Client_1010,Consulting,Debit Card,Completed,8350.02
+11876,2026-03-21,Client_1009,E-commerce,Debit Card,Failed,1396.98
+1271,2025-10-19,Client_1001,E-commerce,Bank Transfer,Failed,583.9
+3997,2025-11-26,Client_1011,SaaS Subscription,Debit Card,Refunded,2375.08
+7294,2026-01-14,Client_1005,Consulting,Bank Transfer,Completed,9686.68
+2352,2025-11-04,Client_1017,SaaS Subscription,Credit Card,Failed,2309.63
+5788,2025-12-23,Client_1001,Consulting,Debit Card,Completed,15116.99
+13228,2026-04-09,Client_1007,Hardware,Credit Card,Failed,9955.93
+7531,2026-01-18,Client_1020,Consulting,Bank Transfer,Completed,13143.2
+1936,2025-10-29,Client_1017,E-commerce,Bank Transfer,Completed,1835.45
+6206,2025-12-29,Client_1020,Hardware,Credit Card,Completed,8529.08
+1412,2025-10-21,Client_1002,E-commerce,Debit Card,Completed,955.11
+4044,2025-11-27,Client_1016,SaaS Subscription,Bank Transfer,Completed,1135.23
+12975,2026-04-06,Client_1020,Cloud Hosting,Credit Card,Completed,4162.85
+4924,2025-12-09,Client_1019,Consulting,Credit Card,Completed,8637.93
+14149,2026-04-22,Client_1017,Consulting,E-Wallet,Completed,12387.32
+12062,2026-03-24,Client_1008,SaaS Subscription,E-Wallet,Completed,2654.64
+5804,2025-12-23,Client_1015,SaaS Subscription,Bank Transfer,Completed,2620.42
+12389,2026-03-29,Client_1020,E-commerce,Debit Card,Completed,496.71
+9000,2026-02-08,Client_1010,Consulting,E-Wallet,Completed,11695.23
+5772,2025-12-22,Client_1017,E-commerce,Credit Card,Completed,1037.51
+12498,2026-03-31,Client_1020,Hardware,E-Wallet,Completed,8040.0
+12559,2026-03-31,Client_1008,Hardware,Credit Card,Completed,689.83
+13579,2026-04-13,Client_1017,Consulting,Bank Transfer,Completed,4712.12
+3317,2025-11-17,Client_1006,Consulting,Debit Card,Completed,12414.6
+8391,2026-01-30,Client_1008,Cloud Hosting,Bank Transfer,Completed,6560.04
+3466,2025-11-19,Client_1002,E-commerce,E-Wallet,Completed,2152.58
+1800,2025-10-27,Client_1007,Hardware,Bank Transfer,Completed,4348.03
+5466,2025-12-17,Client_1003,SaaS Subscription,Credit Card,Completed,2937.52
+3578,2025-11-21,Client_1005,Cloud Hosting,Credit Card,Completed,7851.68
+15006,2026-03-15,Client_1004,E-commerce,Bank Transfer,Completed,1089.07
+9706,2026-02-18,Client_1010,Consulting,Credit Card,Completed,11796.7
+5763,2025-12-22,Client_1019,Consulting,E-Wallet,Failed,15453.29
+1311,2025-10-19,Client_1011,E-commerce,Debit Card,Failed,1634.99
+8747,2026-02-04,Client_1014,Consulting,E-Wallet,Completed,11245.37
+15239,2026-03-15,Client_1004,E-commerce,E-Wallet,Completed,1535.86
+9531,2026-02-15,Client_1001,Consulting,E-Wallet,Refunded,9125.14
+6326,2025-12-31,Client_1012,Cloud Hosting,E-Wallet,Completed,5969.53
+931,2025-10-15,Client_1015,Consulting,Bank Transfer,Completed,9336.73
+3261,2025-11-16,Client_1016,E-commerce,Credit Card,Failed,1086.07
+3590,2025-11-21,Client_1020,SaaS Subscription,Debit Card,Completed,1697.75
+7475,2026-01-17,Client_1010,SaaS Subscription,Bank Transfer,Completed,2365.05
+7725,2026-01-20,Client_1009,Hardware,E-Wallet,Completed,8459.29
+1535,2025-10-23,Client_1019,E-commerce,E-Wallet,Completed,1575.29
+14961,2026-03-15,Client_1004,E-commerce,Bank Transfer,Completed,976.6
+7786,2026-01-21,Client_1008,SaaS Subscription,Debit Card,Completed,3163.88
+9233,2026-02-11,Client_1008,Hardware,Credit Card,Completed,6608.71
+3722,2025-11-23,Client_1010,Hardware,Credit Card,Completed,7917.06
+11483,2026-03-15,Client_1002,Cloud Hosting,Debit Card,Completed,5582.57
+6190,2025-12-29,Client_1020,Consulting,E-Wallet,Completed,8902.61
+5130,2025-12-12,Client_1007,Consulting,Debit Card,Completed,7428.42
+10629,2026-03-03,Client_1019,Cloud Hosting,Credit Card,Completed,3745.49
+12489,2026-03-30,Client_1004,SaaS Subscription,Debit Card,Completed,2905.73
+5354,2025-12-15,Client_1008,E-commerce,E-Wallet,Completed,678.28
+11668,2026-03-18,Client_1007,E-commerce,E-Wallet,Completed,1122.93
+10978,2026-03-08,Client_1006,Hardware,Bank Transfer,Completed,7731.42
+11782,2026-03-20,Client_1002,SaaS Subscription,Credit Card,Completed,2479.41
+2021,2025-10-31,Client_1013,E-commerce,Bank Transfer,Completed,1334.46
+1731,2025-10-26,Client_1007,Consulting,Credit Card,Completed,7447.39
+5404,2025-12-16,Client_1018,E-commerce,Bank Transfer,Completed,1290.81
+14178,2026-04-22,Client_1008,SaaS Subscription,Debit Card,Completed,2257.96
+8680,2026-02-04,Client_1002,SaaS Subscription,Debit Card,Completed,617.83
+4514,2025-12-04,Client_1001,Consulting,Credit Card,Completed,11450.26
+9844,2026-02-20,Client_1016,E-commerce,Debit Card,Completed,1071.19
+4330,2025-12-01,Client_1015,Cloud Hosting,Debit Card,Completed,5249.74
+15166,2026-03-15,Client_1004,E-commerce,Credit Card,Completed,1121.26
+10708,2026-03-04,Client_1016,Cloud Hosting,Debit Card,Completed,2517.4
+6159,2025-12-28,Client_1005,SaaS Subscription,Credit Card,Completed,2325.78
+2958,2025-11-13,Client_1015,Consulting,Debit Card,Completed,7912.86
+4314,2025-12-01,Client_1010,SaaS Subscription,E-Wallet,Completed,3096.73
+1227,2025-10-19,Client_1006,Hardware,Credit Card,Completed,5821.84
+2127,2025-11-01,Client_1019,SaaS Subscription,Credit Card,Completed,2444.6
+2268,2025-11-03,Client_1015,Hardware,Credit Card,Completed,2321.84
+9620,2026-02-16,Client_1015,E-commerce,Credit Card,Failed,854.28
+9250,2026-02-11,Client_1013,Cloud Hosting,E-Wallet,Failed,4210.75
+14975,2026-03-15,Client_1004,E-commerce,Bank Transfer,Completed,1410.8
+3496,2025-11-20,Client_1003,Consulting,E-Wallet,Completed,12377.66
+13706,2026-04-15,Client_1018,SaaS Subscription,Bank Transfer,Completed,3129.2
+6424,2026-01-01,Client_1019,Cloud Hosting,Bank Transfer,Completed,5563.06
+5203,2025-12-13,Client_1004,SaaS Subscription,Debit Card,Completed,2329.13
+10237,2026-02-26,Client_1006,Consulting,Bank Transfer,Completed,17375.29
+5077,2025-12-11,Client_1016,SaaS Subscription,Debit Card,Completed,1761.48
+7133,2026-01-12,Client_1014,E-commerce,Credit Card,Completed,1164.1
+4920,2025-12-09,Client_1011,E-commerce,Debit Card,Completed,1191.31
+10235,2026-02-26,Client_1003,E-commerce,Bank Transfer,Completed,1309.94
+1351,2025-10-20,Client_1016,Cloud Hosting,Debit Card,Completed,5585.89
+6957,2026-01-09,Client_1016,Consulting,E-Wallet,Completed,11240.98
+2449,2025-11-05,Client_1016,Hardware,E-Wallet,Completed,6999.23
+12414,2026-03-29,Client_1013,Cloud Hosting,Credit Card,Completed,6229.66
+6033,2025-12-26,Client_1020,SaaS Subscription,Bank Transfer,Completed,1855.35
+8047,2026-01-25,Client_1015,Consulting,Bank Transfer,Completed,11070.31
+5457,2025-12-17,Client_1004,Cloud Hosting,Bank Transfer,Completed,5656.28
+9025,2026-02-08,Client_1008,E-commerce,Bank Transfer,Completed,1298.19
+5577,2025-12-19,Client_1015,Consulting,Bank Transfer,Completed,12557.51
+543,2025-10-08,Client_1013,Consulting,Credit Card,Completed,8318.22
+6801,2026-01-07,Client_1008,Cloud Hosting,E-Wallet,Completed,3357.21
+13854,2026-04-17,Client_1007,E-commerce,E-Wallet,Completed,1318.57
+6278,2025-12-30,Client_1013,SaaS Subscription,Credit Card,Completed,2365.33
+6910,2026-01-09,Client_1007,E-commerce,Debit Card,Failed,2092.27
+4565,2025-12-04,Client_1013,E-commerce,Debit Card,Completed,1312.48
+8148,2026-01-26,Client_1003,Consulting,Credit Card,Completed,13842.11
+2586,2025-11-07,Client_1007,SaaS Subscription,Bank Transfer,Completed,1613.79
+7365,2026-01-15,Client_1011,Hardware,Credit Card,Completed,12151.91
+6287,2025-12-30,Client_1015,SaaS Subscription,E-Wallet,Completed,2700.94
+10547,2026-03-02,Client_1014,Hardware,Bank Transfer,Completed,10148.5
+12017,2026-03-23,Client_1016,SaaS Subscription,Credit Card,Completed,2292.31
+8909,2026-02-06,Client_1005,Hardware,E-Wallet,Completed,7138.87
+7403,2026-01-16,Client_1009,Consulting,Debit Card,Completed,9349.35
+5844,2025-12-23,Client_1012,E-commerce,Bank Transfer,Completed,1272.34
+6396,2026-01-01,Client_1001,E-commerce,Debit Card,Completed,1124.29
+11268,2026-03-12,Client_1015,SaaS Subscription,Credit Card,Completed,3478.89
+10255,2026-02-26,Client_1019,SaaS Subscription,E-Wallet,Completed,3460.71
+8319,2026-01-29,Client_1017,Consulting,Debit Card,Completed,14019.59
+6336,2025-12-31,Client_1018,Consulting,Debit Card,Completed,10731.44
+2663,2025-11-08,Client_1008,E-commerce,Debit Card,Completed,1446.49
+8048,2026-01-25,Client_1020,SaaS Subscription,E-Wallet,Completed,2304.51
+3411,2025-11-18,Client_1005,Cloud Hosting,Debit Card,Completed,4488.04
+9846,2026-02-20,Client_1002,E-commerce,Bank Transfer,Completed,619.81
+4216,2025-11-30,Client_1013,Cloud Hosting,E-Wallet,Completed,3405.08
+5815,2025-12-23,Client_1006,Hardware,E-Wallet,Completed,8257.9
+10998,2026-03-08,Client_1016,Cloud Hosting,E-Wallet,Completed,5627.77
+2989,2025-11-13,Client_1003,Cloud Hosting,Debit Card,Completed,7099.54
+11683,2026-03-19,Client_1004,Cloud Hosting,Debit Card,Completed,6913.12
+7301,2026-01-14,Client_1001,Hardware,Debit Card,Completed,8546.3
+896,2025-10-14,Client_1015,Cloud Hosting,Debit Card,Completed,4694.49
+7121,2026-01-11,Client_1007,SaaS Subscription,E-Wallet,Completed,2791.44
+8969,2026-02-08,Client_1005,Cloud Hosting,Credit Card,Completed,6036.53
+9605,2026-02-16,Client_1006,Consulting,Bank Transfer,Refunded,10280.41
+1684,2025-10-25,Client_1001,SaaS Subscription,Bank Transfer,Completed,2631.87
+7464,2026-01-17,Client_1018,SaaS Subscription,Bank Transfer,Completed,2779.64
+488,2025-10-07,Client_1020,SaaS Subscription,E-Wallet,Completed,2157.55
+8910,2026-02-06,Client_1007,SaaS Subscription,Credit Card,Completed,2761.66
+3456,2025-11-19,Client_1004,SaaS Subscription,Bank Transfer,Completed,2502.03
+3707,2025-11-22,Client_1009,Hardware,Debit Card,Completed,5118.53
+12748,2026-04-03,Client_1019,Consulting,Credit Card,Failed,12346.31
+14281,2026-04-24,Client_1009,Hardware,Debit Card,Completed,8718.06
+3661,2025-11-22,Client_1012,E-commerce,Credit Card,Failed,1477.85
+14106,2026-04-21,Client_1016,E-commerce,Debit Card,Completed,1782.94
+388,2025-10-05,Client_1009,Cloud Hosting,Bank Transfer,Completed,4973.11
+11342,2026-03-13,Client_1015,SaaS Subscription,E-Wallet,Completed,1334.98
+9922,2026-02-21,Client_1004,SaaS Subscription,Credit Card,Completed,3062.08
+8066,2026-01-25,Client_1012,Cloud Hosting,Credit Card,Completed,4516.63
+10598,2026-03-03,Client_1002,Hardware,Bank Transfer,Completed,8180.22
+9396,2026-02-13,Client_1018,Hardware,Bank Transfer,Completed,6730.52
+12118,2026-03-25,Client_1004,SaaS Subscription,Bank Transfer,Refunded,2793.8
+4885,2025-12-09,Client_1009,E-commerce,Bank Transfer,Completed,1822.17
+11949,2026-03-22,Client_1010,Hardware,Credit Card,Completed,9882.44
+7661,2026-01-20,Client_1017,Hardware,Debit Card,Completed,9599.33
+2123,2025-11-01,Client_1020,SaaS Subscription,Bank Transfer,Completed,3175.42
+2806,2025-11-10,Client_1002,E-commerce,Debit Card,Completed,1450.64
+2596,2025-11-07,Client_1002,E-commerce,Credit Card,Completed,965.33
+9318,2026-02-12,Client_1016,SaaS Subscription,Debit Card,Completed,2923.66
+10846,2026-03-06,Client_1003,Hardware,Credit Card,Failed,12822.88
+12681,2026-04-02,Client_1008,Cloud Hosting,Debit Card,Completed,4422.93
+4744,2025-12-07,Client_1005,Cloud Hosting,Credit Card,Completed,5180.39
+2677,2025-11-08,Client_1014,Cloud Hosting,Debit Card,Completed,4382.05
+9775,2026-02-19,Client_1009,Hardware,E-Wallet,Completed,11101.27
+14269,2026-04-24,Client_1013,Hardware,Credit Card,Completed,8078.64
+100,2025-10-02,Client_1017,E-commerce,Bank Transfer,Completed,1389.53
+9640,2026-02-17,Client_1011,SaaS Subscription,Credit Card,Completed,2646.17
+7361,2026-01-15,Client_1001,E-commerce,Debit Card,Completed,1928.91
+9451,2026-02-14,Client_1005,Consulting,E-Wallet,Completed,10441.83
+2857,2025-11-11,Client_1003,SaaS Subscription,Bank Transfer,Completed,1831.93
+9149,2026-02-10,Client_1006,Consulting,Debit Card,Completed,7390.77
+5262,2025-12-14,Client_1003,Hardware,E-Wallet,Completed,6802.96
+9750,2026-02-19,Client_1013,SaaS Subscription,E-Wallet,Completed,2204.87
+291,2025-10-04,Client_1002,Cloud Hosting,E-Wallet,Completed,3408.11
+7794,2026-01-21,Client_1010,Hardware,Debit Card,Completed,11833.1
+11069,2026-03-09,Client_1016,Consulting,E-Wallet,Failed,7189.07
+10719,2026-03-04,Client_1011,Hardware,Bank Transfer,Completed,9488.85
+10827,2026-03-06,Client_1003,Cloud Hosting,Debit Card,Completed,5701.43
+4270,2025-12-01,Client_1001,Cloud Hosting,E-Wallet,Failed,6266.68
+4547,2025-12-04,Client_1004,E-commerce,E-Wallet,Failed,241.57
+6887,2026-01-08,Client_1004,SaaS Subscription,E-Wallet,Completed,1356.77
+5712,2025-12-22,Client_1020,SaaS Subscription,Credit Card,Completed,2348.85
+9622,2026-02-16,Client_1012,Cloud Hosting,E-Wallet,Completed,7675.25
+2453,2025-11-06,Client_1012,E-commerce,Credit Card,Completed,1262.85
+10482,2026-03-01,Client_1019,Consulting,E-Wallet,Completed,11498.62
+102,2025-10-02,Client_1012,E-commerce,Bank Transfer,Completed,1514.83
+1945,2025-10-29,Client_1017,SaaS Subscription,Credit Card,Completed,3517.43
+5283,2025-12-14,Client_1001,SaaS Subscription,Bank Transfer,Completed,3038.2
+2502,2025-11-06,Client_1004,Hardware,Credit Card,Completed,5687.17
+5861,2025-12-24,Client_1003,E-commerce,E-Wallet,Completed,764.84
+10849,2026-03-06,Client_1001,SaaS Subscription,Debit Card,Failed,1815.01
+10221,2026-02-26,Client_1002,SaaS Subscription,E-Wallet,Completed,2619.74
+14667,2026-04-29,Client_1008,SaaS Subscription,Credit Card,Completed,2446.33
+10639,2026-03-03,Client_1019,Consulting,Credit Card,Refunded,12843.5
+3066,2025-11-14,Client_1017,SaaS Subscription,Debit Card,Completed,1927.57
+10557,2026-03-02,Client_1015,Hardware,E-Wallet,Completed,10461.39
+8284,2026-01-28,Client_1013,E-commerce,Debit Card,Completed,1025.93
+10374,2026-02-28,Client_1004,Consulting,Debit Card,Completed,12293.4
+5854,2025-12-24,Client_1018,SaaS Subscription,Bank Transfer,Completed,2735.98
+287,2025-10-04,Client_1015,SaaS Subscription,E-Wallet,Completed,1916.64
+14041,2026-04-20,Client_1012,Consulting,Debit Card,Completed,8162.03
+903,2025-10-14,Client_1011,Hardware,Debit Card,Failed,8133.98
+10398,2026-02-28,Client_1013,Hardware,E-Wallet,Completed,7718.01
+13090,2026-04-07,Client_1006,Cloud Hosting,Bank Transfer,Completed,6406.12
+4188,2025-11-29,Client_1006,Consulting,Debit Card,Failed,11830.16
+3838,2025-11-24,Client_1003,Hardware,Credit Card,Completed,3331.95
+9954,2026-02-22,Client_1011,Cloud Hosting,Debit Card,Completed,3966.44
+8392,2026-01-30,Client_1014,SaaS Subscription,E-Wallet,Failed,2736.48
+6370,2025-12-31,Client_1011,E-commerce,Debit Card,Completed,1115.83
+7729,2026-01-20,Client_1016,E-commerce,Debit Card,Completed,1560.71
