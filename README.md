@@ -19,13 +19,13 @@ Takes synthetic transaction data spanning October 2025 to April 2026 and runs it
 
 ## Stack
 
-Python · pandas · numpy · SQLite · SQL · matplotlib · Power BI (planned)
+Python · pandas · numpy · SQLite · SQL · matplotlib · Power BI
 
 ---
 
 ## Dataset
 
-Synthetic data generated for portfolio use. Fields: 	ransaction_id, 	ransaction_date, client_id, category, payment_method, status, mount.
+Synthetic data generated for portfolio use. Fields: `transaction_id`, `transaction_date`, `client_id`, `category`, `payment_method`, `status`, `amount`.
 
 One anomaly was intentionally injected: **Client_1004** shows an abnormal E-commerce spike on **2026-03-15** to test the detection logic.
 
@@ -33,7 +33,7 @@ One anomaly was intentionally injected: **Client_1004** shows an abnormal E-comm
 
 ## Project Structure
 
-\\\
+```text
 business-transaction-analytics-dashboard/
 ├── data/
 │   ├── raw/transactions.csv
@@ -52,24 +52,26 @@ business-transaction-analytics-dashboard/
 ├── screenshots/
 │   ├── daily_transaction_volume.png
 │   ├── revenue_by_category.png
-│   └── top_clients_revenue.png
+│   ├── top_clients_revenue.png
+│   ├── powerbi_summary.png
+│   └── powerbi_anomaly.png
 ├── dashboard/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-\\\
+```
 
 ---
 
 ## How to Run
 
-\\\ash
+```bash
 pip install -r requirements.txt
 python notebooks/generate_data.py
 python notebooks/create_database.py
 python notebooks/analyze_transactions.py
 python notebooks/create_charts.py
-\\\
+```
 
 ---
 
@@ -92,6 +94,10 @@ The spike detection query catches Client_1004's unusual volume on 2026-03-15. In
 
 ---
 
-## What's Next
+## Dashboard Previews
 
-Building out a Power BI dashboard with four pages: Executive Summary, Client Performance, Transaction Trends, and Anomaly Detection.
+### Power BI: Executive Summary
+![Power BI Summary](screenshots/powerbi_summary.png)
+
+### Power BI: Anomaly Detection
+![Power BI Anomaly](screenshots/powerbi_anomaly.png)
