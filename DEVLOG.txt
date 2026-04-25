@@ -1,0 +1,245 @@
+=========================================================
+DEVELOPER LOG - BUSINESS TRANSACTION ANALYTICS DASHBOARD
+Author: Rafael Angelo S. Tibayan
+Project: business-transaction-analytics-dashboard
+=========================================================
+
+[2026-04-25] Phase 2: Business Transaction Analytics Dashboard - Completed
+---------------------------------------------------------
+
+PROJECT GOAL
+Built a portfolio project simulating a real-world business analytics workflow for transaction monitoring, KPI reporting, SQL analysis, anomaly detection, and Power BI dashboarding.
+
+This project was created to strengthen portfolio coverage in:
+- Business analytics
+- SQL querying
+- KPI reporting
+- Data visualization
+- Dashboard design
+- Client-facing data insights
+- Anomaly/spike detection
+
+REPOSITORY
+- Repository name: business-transaction-analytics-dashboard
+- GitHub owner: Robictibay
+- Description: Business analytics dashboard for transaction monitoring, KPI reporting, and anomaly detection using Python, SQL, and Power BI.
+
+LOCAL PROJECT PATH
+C:\Users\rasti\OneDrive\Desktop\business-transaction-analytics-dashboard
+
+TOOLS / LIBRARIES USED
+- Python
+- pandas
+- numpy
+- SQLite
+- SQL
+- matplotlib
+- tabulate
+- Power BI Desktop
+- PowerShell
+- Git / GitHub
+
+FINAL PROJECT STRUCTURE
+business-transaction-analytics-dashboard/
+├── data/
+│   ├── raw/
+│   │   └── transactions.csv
+│   ├── processed/
+│   │   └── transactions.db
+│   └── sample/
+│       └── transactions_sample.csv
+├── notebooks/
+│   ├── generate_data.py
+│   ├── create_database.py
+│   ├── analyze_transactions.py
+│   └── create_charts.py
+├── sql/
+│   ├── create_tables.sql
+│   ├── kpi_queries.sql
+│   └── anomaly_queries.sql
+├── dashboard/
+│   └── transaction_dashboard.pbix
+├── reports/
+│   └── client_insights_report.md
+├── screenshots/
+│   ├── daily_transaction_volume.png
+│   ├── revenue_by_category.png
+│   ├── top_clients_revenue.png
+│   ├── powerbi_summary.png
+│   └── powerbi_anomaly.png
+├── README.md
+├── requirements.txt
+├── DEVLOG.txt
+└── .gitignore
+
+IMPLEMENTATION SUMMARY
+1. Initialized a new local project folder and GitHub repository:
+   - business-transaction-analytics-dashboard
+
+2. Created a clean folder structure for:
+   - raw data
+   - processed database
+   - sample data
+   - Python scripts
+   - SQL queries
+   - reports
+   - dashboard files
+   - screenshots
+
+3. Created a synthetic transaction dataset using Python:
+   - File: notebooks/generate_data.py
+   - Output: data/raw/transactions.csv
+   - Sample output: data/sample/transactions_sample.csv
+   - Date range: October 2025 to April 2026
+   - Total records generated: 15,248
+   - Status values:
+     - Completed: 13,464
+     - Failed: 1,199
+     - Refunded: 585
+
+4. Injected a controlled anomaly:
+   - Client: Client_1004
+   - Date: 2026-03-15
+   - Category: E-commerce
+   - Status: Completed
+   - Purpose: create a visible transaction spike for anomaly detection and dashboard storytelling.
+
+5. Created a SQLite database:
+   - File: notebooks/create_database.py
+   - Output: data/processed/transactions.db
+   - Loaded the CSV into a transactions table.
+   - Added indexes for:
+     - transaction_date
+     - client_id
+     - status
+     - category
+
+6. Created SQL query files:
+   - sql/create_tables.sql
+   - sql/kpi_queries.sql
+   - sql/anomaly_queries.sql
+
+7. Built KPI and anomaly queries for:
+   - total transactions
+   - completed revenue
+   - failed transaction rate
+   - refund rate
+   - revenue by category
+   - top clients by completed revenue
+   - daily transaction trends
+   - client-level transaction spike detection
+
+8. Created an automated Markdown report:
+   - File: notebooks/analyze_transactions.py
+   - Output: reports/client_insights_report.md
+   - The report includes:
+     - executive summary
+     - overall KPIs
+     - top clients
+     - revenue by category
+     - anomaly detection finding
+     - business interpretation
+     - recommended actions
+
+9. Debugged a missing dependency:
+   - Error: pandas DataFrame.to_markdown required the optional tabulate dependency.
+   - Fix:
+     pip install tabulate
+   - Added tabulate to requirements.txt.
+
+10. Improved report formatting:
+   - Converted scientific notation into readable currency formatting.
+   - Example:
+     PHP 4,474,529.44 instead of 4.47453e+06.
+
+11. Created chart screenshots using matplotlib:
+   - File: notebooks/create_charts.py
+   - Outputs:
+     - screenshots/daily_transaction_volume.png
+     - screenshots/revenue_by_category.png
+     - screenshots/top_clients_revenue.png
+
+12. Built Power BI dashboard:
+   - File: dashboard/transaction_dashboard.pbix
+
+POWER BI PAGE 1 - EXECUTIVE SUMMARY
+Created a dashboard page showing:
+- Total Transactions: 15,248
+- Completed Transactions: 13,464
+- Completed Revenue: 76.30M
+- Transaction Status Breakdown donut chart
+- Completed Revenue by Category bar chart
+- Completed Revenue Trend line chart
+
+Design decisions:
+- Used completed transactions/revenue for revenue-focused visuals.
+- Kept all transaction statuses visible in the status breakdown.
+- Renamed auto-generated Power BI titles into clean business-friendly labels.
+
+POWER BI PAGE 2 - ANOMALY DETECTION
+Created a dashboard page showing:
+- Daily Transaction Volume Spike chart
+- Flagged Anomaly Details table
+
+Flagged anomaly:
+- Date: Sunday, March 15, 2026
+- Client: Client_1004
+- Category: E-commerce
+- Status: Completed
+- Total Amount: 680,825.07
+
+The anomaly page clearly shows a sharp transaction volume spike, supporting the client-level anomaly detection logic from the SQL and Python analysis.
+
+GIT / GITHUB SUMMARY
+Initial push:
+- git init
+- git add .
+- git commit -m "Initial commit: business transaction analytics dashboard"
+- git branch -M main
+- git remote add origin https://github.com/Robictibay/business-transaction-analytics-dashboard.git
+- git push -u origin main
+
+Second push after Power BI:
+- Added dashboard file and Power BI screenshots.
+- Committed and pushed final dashboard artifacts.
+
+FINAL STATUS
+✅ Project folder created
+✅ GitHub repo created
+✅ Synthetic dataset generated
+✅ SQLite database created
+✅ SQL queries written
+✅ KPI analysis completed
+✅ Anomaly detection completed
+✅ Markdown report generated
+✅ Chart screenshots generated
+✅ Power BI dashboard built
+✅ Executive Summary page completed
+✅ Anomaly Detection page completed
+✅ README created
+✅ Devlog created
+✅ GitHub push completed
+
+PORTFOLIO VALUE
+This project demonstrates:
+- business analytics workflow
+- Python-based data generation and analysis
+- SQLite database creation
+- SQL querying for KPIs and anomaly detection
+- dashboard-ready data preparation
+- Power BI dashboard design
+- business interpretation of data anomalies
+- clean GitHub project structuring
+
+RESUME BULLET OPTION
+- Built a business transaction analytics dashboard using Python, SQL, SQLite, and Power BI, generating 15K+ synthetic records, calculating revenue and transaction KPIs, and detecting a client-level transaction spike for anomaly investigation.
+
+SHORTER RESUME BULLET
+- Created a Python, SQL, and Power BI transaction analytics dashboard with KPI reporting, SQLite-backed analysis, and anomaly detection on 15K+ synthetic records.
+
+INTERVIEW TALKING POINT
+I built this project to show a full business analytics workflow. I generated synthetic transaction data, loaded it into SQLite, wrote SQL queries for KPIs and anomaly detection, automated a Markdown insights report, and built a Power BI dashboard with an Executive Summary and Anomaly Detection page. The project includes a controlled anomaly involving Client_1004, which lets me demonstrate how unusual transaction spikes can be detected and investigated in a business setting.
+
+=========================================================
+END OF DEVLOG
+=========================================================
